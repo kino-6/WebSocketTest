@@ -1,0 +1,14 @@
+C:\LocalWork\Prj\WebSocket\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\LocalWork\Prj\WebSocket\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\LocalWork\Prj\WebSocket\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\LocalWork\Prj\WebSocket\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\LocalWork\Prj\WebSocket\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\LocalWork\Prj\WebSocket\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\LocalWork\Prj\WebSocket\Server\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalWork\Prj\WebSocket\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\LocalWork\Prj\WebSocket\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\LocalWork\Prj\WebSocket\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\LocalWork\Prj\WebSocket\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\LocalWork\Prj\WebSocket\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\LocalWork\Prj\WebSocket\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\LocalWork\Prj\WebSocket\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache

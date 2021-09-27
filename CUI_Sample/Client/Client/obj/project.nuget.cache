@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KRmb9P+1fHSr+2fESHBuDsFSKyQglPMxZl5eLlarfCRocdP2Ajj6DzCEcevsuhQvAxMf1ZScX4u2M9S0vu+Vvg==",
+  "success": true,
+  "projectFilePath": "C:\\LocalWork\\Prj\\WebSocket\\Commit\\CUI_Sample\\Client\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mutam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
